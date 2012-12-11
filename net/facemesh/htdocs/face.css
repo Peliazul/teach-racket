@@ -1,0 +1,20 @@
+.couple {
+    padding: 20px;
+    padding-left:70px;
+    padding-top: 60px;
+    width: 625px;
+    height: 500px;
+    background-image: url(/heart.gif);
+}
+
+.couple-left {
+   -moz-transform:rotate(-25deg);
+    margin-left: 80px;
+    opacity: 0.7;
+}
+
+.couple-right {
+   -moz-transform:rotate(-335deg);
+    opacity: 0.7;
+    margin-left: -95px;
+}
